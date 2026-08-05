@@ -31,7 +31,7 @@
 <tr>
 <td width="60%" valign="top">
 
-I'm a **Senior Full Stack PHP / Laravel Developer** with **9+ years** of experience designing,
+I'm a **Senior Full Stack PHP / Laravel Developer** with **8+ years** of experience designing,
 building, and scaling enterprise-grade web applications. I specialize in **Laravel, CodeIgniter,
 and WordPress** ecosystems, backed by strong **MySQL** architecture and clean **REST API** design.
 
@@ -51,7 +51,7 @@ and continuously levelling up backend engineering practices.
 | | |
 |---|---|
 | 🧑‍💼 | Senior Full Stack Developer |
-| 📅 | 9+ Years Experience |
+| 📅 | 8+ Years Experience |
 | 📍 | Madurai, Tamil Nadu, India |
 | 💬 | PHP · Laravel · MySQL |
 | 🌱 | Learning Laravel 12 & System Design |
@@ -69,7 +69,7 @@ and continuously levelling up backend engineering practices.
 const vigneshBG = {
     name: "Vignesh BG",
     role: "Senior Full Stack PHP / Laravel Developer",
-    experience: "9+ Years",
+    experience: "8+ Years",
     location: "Madurai, Tamil Nadu, India",
     currentFocus: ["Laravel 12", "System Design", "API Architecture"],
     techStack: {
@@ -275,7 +275,7 @@ provided a clear analytics dashboard to track outreach effectiveness.
 
 <div align="center">
 
-![9+ Years](https://img.shields.io/badge/9%2B_Years-Professional_Experience-2563EB?style=for-the-badge&labelColor=0F172A)
+![8+ Years](https://img.shields.io/badge/9%2B_Years-Professional_Experience-2563EB?style=for-the-badge&labelColor=0F172A)
 ![Enterprise](https://img.shields.io/badge/Enterprise-Applications_Delivered-7C3AED?style=for-the-badge&labelColor=0F172A)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-Designed_%26_Built-06B6D4?style=for-the-badge&labelColor=0F172A)
 ![Payments](https://img.shields.io/badge/Payment_Gateways-Integrated-2563EB?style=for-the-badge&labelColor=0F172A)
