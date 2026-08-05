@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=200&section=header&text=Vignesh%20BG&fontSize=60&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20PHP%20%2F%20Laravel%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://github.com/vigneshjoin">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=650&lines=Senior+Full+Stack+PHP+%2F+Laravel+Developer;9%2B+Years+Building+Enterprise+Web+Systems;Laravel+%7C+CodeIgniter+%7C+WordPress+%7C+MySQL;REST+API+%26+Payment+Gateway+Specialist;Turning+Complex+Problems+into+Clean+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=650&lines=Senior+Full+Stack+PHP+%2F+Laravel+Developer;8%2B+Years+Building+Enterprise+Web+Systems;Laravel+%7C+CodeIgniter+%7C+WordPress+%7C+MySQL;REST+API+%26+Payment+Gateway+Specialist;Turning+Complex+Problems+into+Clean+Code" alt="Typing SVG" />
 </a>
 
 <br>
